@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="7" selection-start="145" selection-end="145" vertical-scroll-proportion="0.28169015" vertical-offset="0" max-vertical-offset="639">
+            <state line="8" column="46" selection-start="119" selection-end="119" vertical-scroll-proportion="0.18779343" vertical-offset="0" max-vertical-offset="639">
               <folding />
             </state>
           </provider>
@@ -117,6 +117,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -215,7 +219,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="145" selection-end="145" vertical-scroll-proportion="0.28169015" vertical-offset="0" max-vertical-offset="639">
+        <state line="8" column="46" selection-start="119" selection-end="119" vertical-scroll-proportion="0.18779343" vertical-offset="0" max-vertical-offset="639">
           <folding />
         </state>
       </provider>
