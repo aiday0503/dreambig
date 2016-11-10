@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50bdb5d9-1044-445d-baef-55f5deede85a" name="Default" comment="" />
+    <list default="true" id="50bdb5d9-1044-445d-baef-55f5deede85a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="dreambig.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="6" selection-start="22" selection-end="22" vertical-scroll-proportion="0.02446982" vertical-offset="0" max-vertical-offset="613">
+            <state line="19" column="7" selection-start="872" selection-end="872" vertical-scroll-proportion="0.475" vertical-offset="0" max-vertical-offset="600">
               <folding />
             </state>
           </provider>
@@ -217,7 +219,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="6" selection-start="22" selection-end="22" vertical-scroll-proportion="0.02446982" vertical-offset="0" max-vertical-offset="613">
+        <state line="19" column="7" selection-start="872" selection-end="872" vertical-scroll-proportion="0.475" vertical-offset="0" max-vertical-offset="600">
           <folding />
         </state>
       </provider>
