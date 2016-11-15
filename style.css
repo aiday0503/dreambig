@@ -2,21 +2,37 @@
 
 body {
     margin: 0 auto;
+    padding-left:100px;
 
 }
 .horizontal {
     background-color:green;
     width:100%;
-    height:5px;
-
+    height:10px;
 }
-.header {
-    display:inline-block;
 
+.header {
+    float:left;
+    margin-right: 20px;
+}
+
+.text {
+    float:right;
+    margin-left: 10px;
 }
 
 .img {
+   float:left;
+    margin-top: 10px;
+}
+
+.contact {
+    float:right;
+}
+
+.nav {
     display:inline-block;
+    margin-top: 20px;
 }
 .mobile{
     flaot:left;
