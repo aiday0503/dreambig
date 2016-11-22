@@ -37,8 +37,14 @@ body {
 }
 .mobile{
     flaot:left;
+    border:solid 1px grey;
+    background-color: lightgrey;
 }
-.mobile text{
-    float:left;
+.mobile text {
+    float:right;
 }
+.home {
+    margin-top: 10px;
+}
+
 
